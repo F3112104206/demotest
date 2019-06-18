@@ -12,6 +12,7 @@ public class TestMain {
 
     public static void main(String[] args) {
         System.out.printf("master have this data");
+        System.out.printf("uuuuu");
     }
 
 }
