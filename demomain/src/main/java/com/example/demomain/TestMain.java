@@ -9,4 +9,9 @@ public class TestMain {
 
     String name ="";
 
+
+    public static void main(String[] args) {
+        System.out.printf("master have this data");
+    }
+
 }
