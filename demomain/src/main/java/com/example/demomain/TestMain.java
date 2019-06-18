@@ -8,6 +8,7 @@ public class TestMain {
     public static void main(String[] args) {
         System.out.printf("zhe ge shi dev fenzhi ");
         System.out.printf("master have this data");
+        System.out.printf("zhege di sange ");
     }
 
 
