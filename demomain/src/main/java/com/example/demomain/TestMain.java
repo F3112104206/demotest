@@ -7,12 +7,13 @@ package com.example.demomain;
 public class TestMain {
 
 
-    String name ="";
+    String name ="99999";
 
 
     public static void main(String[] args) {
         System.out.printf("master have this data");
         System.out.printf("uuuuu");
+        System.out.printf("hhhhh");
     }
 
 }
