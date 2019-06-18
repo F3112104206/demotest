@@ -9,10 +9,11 @@ public class TestMain {
         System.out.printf("zhe ge shi dev fenzhi ");
         System.out.printf("master have this data");
         System.out.printf("zhege di sange ");
+
     }
 
 
-    String name ="";
+    String name ="jjjjj";
 
 
 
